@@ -1,0 +1,12 @@
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\bin\Debug\netcoreapp2.0\ItineroRouterApi.deps.json
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\bin\Debug\netcoreapp2.0\ItineroRouterApi.runtimeconfig.json
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\bin\Debug\netcoreapp2.0\ItineroRouterApi.runtimeconfig.dev.json
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\bin\Debug\netcoreapp2.0\ItineroRouterApi.dll
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\bin\Debug\netcoreapp2.0\ItineroRouterApi.pdb
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\obj\Debug\netcoreapp2.0\ItineroRouterApi.csprojAssemblyReference.cache
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\obj\Debug\netcoreapp2.0\ItineroRouterApi.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\obj\Debug\netcoreapp2.0\ItineroRouterApi.AssemblyInfoInputs.cache
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\obj\Debug\netcoreapp2.0\ItineroRouterApi.AssemblyInfo.cs
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\obj\Debug\netcoreapp2.0\ItineroRouterApi.dll
+c:\users\user\source\repos\ItineroRouterApi\ItineroRouterApi\obj\Debug\netcoreapp2.0\ItineroRouterApi.pdb
+C:\Users\User\source\repos\ItineroRouterApi\ItineroRouterApi\bin\Debug\netcoreapp2.0\ural.routerdb
